@@ -1,0 +1,5 @@
+{
+  "name": "DroidNote AI",
+  "description": "A modern, Material Design 3 inspired notepad with AI-powered titling, summarization, and advanced organization features.",
+  "requestFramePermissions": ["microphone"]
+}
